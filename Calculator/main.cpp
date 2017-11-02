@@ -3,7 +3,6 @@
 //  Calculator
 //
 //  Created by Alexis Fernando Rodriguez on 02/11/2017.
-//  Copyright © 2017 Alexis Fernando Rodriguez. All rights reserved.
 //
 
 #include <iostream>
